@@ -19,7 +19,7 @@ The data was feshed from a database from [neuefische](https://www.kaggle.com/dat
 
 ## Analysis and Presentations
 
-The presentation of the key findings can be found in the subfolder [presentation](github.com/merekat/ds-eda-project-template/tree/main/presentation). The analysis itself is the [eda.ipynb](https://github.com/merekat/ds-eda-project-template/blob/main/EDA.ipynb) file. 
+The presentation of the key findings can be found in the subfolder [presentation](/presentation). The analysis itself is the [eda.ipynb](https://github.com/merekat/ds-eda-project-template/blob/main/EDA.ipynb) file. 
 
 ## Requirements
 
