@@ -1,7 +1,25 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
 
-Template for creating ds simple projects
+# Table of Contents
+
+1. [Content](#content)
+2. [Files](#files)
+3. [Analysis and Presentations](#analysis-and-presentations)
+4. [Requirements](#requirements)
+5. [Setup](#setup)
+6. [Set up your Environment](#set-up-your-environment)
+
+## Content
+
+This is an analysis of a dataset about real estates and their sales in Kings County in Washington State. It tries to get some deeper insights and analysed the data to the wishes of an imaginary customer. 
+
+## Files
+
+The data was feshed from a database from [neuefische](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). A similar but not same dataset can be found on [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). 
+
+## Analysis and Presentations
+
+The presentation of the key findings can be found in the subfolder [presentation](github.com/merekat/ds-eda-project-template/tree/main/presentation). The analysis itself is the [eda.ipynb](https://github.com/merekat/ds-eda-project-template/blob/main/EDA.ipynb) file. 
 
 ## Requirements
 
@@ -95,7 +113,7 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
     pip install --upgrade pip
     pip install -r requirements.txt
     ```
- 
+
 
  **`Note:`**
     If you encounter an error when trying to run `pip install --upgrade pip`, try using the following command:
